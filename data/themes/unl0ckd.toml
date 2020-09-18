@@ -1,0 +1,29 @@
+# Color pallette based on the US and Christian flags:
+# Red NCS - (192,3,44)|#C0032C
+# White - (255, 255, 255)|#FFFFFF
+# Royal Blue Dark - (0, 35, 104)|#002368
+# Dark Liver - (64, 63, 76)|#403F4C
+# Nickel - (112, 108, 97) |#706C61
+# Some other colors that might complement this (via https://coolors.co)
+# Saffron - #EAC435
+# Goldenrod - #E6AF2E
+# Ebony - #595A4A
+# Github bar - (36, 41, 46)| #24292E
+# Theme metadata
+name = "unl0ckd"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#C0032C"#"#002368"
+
+# Menu
+menu_primary = "#24292E"#"#E6AF2E"
+menu_text = "#FFFFFF"
+menu_text_active = "#E6AF2E"
+menu_title = "#FFFFFF"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
