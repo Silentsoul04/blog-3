@@ -27,7 +27,7 @@ created an S3 bucket that would be used for filesharing with one object called
 "Delivery" (for files received from the client) and one object called
 "Submissions" (for files I'm sharing with the client).
 
-{{% alert note %}}
+{{% callout note %}}
 Although the S3 console depicts bucket contents as a hierarchical file/folder
 system, S3 buckets are actually flat collections of objects. "Folder" objects
 have key values that include / delimiters, and the S3 console helpfully
@@ -35,7 +35,7 @@ renders these as folders.
 
 For example, the file "first.txt" in the "Submissions" folder of the "Example"
 bucket is the "Submissions/first.txt" object.
-{{% /alert %}}
+{{% /callout %}}
 
 
 I set the policy on the bucket to allow read, list, and write access based on

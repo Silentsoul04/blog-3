@@ -82,12 +82,12 @@ dollar tools that require teams of people and scads of hardware to support.
 Often, these tools will have a marketable feature that automates certain tasks
 and produces the results in an easy-to-read report.
 
-{{% alert note %}}
+{{% callout note %}}
 While these tools are critical, constantly evolving, and providing automated
 output, there will always be the need for the human operator to turn the data
 output of these tools into useful information that can be presented to
 decision makers.
-{{% /alert %}}
+{{% /callout %}}
 
 Sounds obvious, right?
 

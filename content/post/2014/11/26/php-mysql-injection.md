@@ -118,10 +118,10 @@ tailored responses to the user's web browser.
 CGI is the "glue" that allows a web server to return dynamic content to the
 user's web browser instead of static content.
 
-{{% alert note %}}
+{{% callout note %}}
 [RFC 3875](http://www.ietf.org/rfc/rfc3875) outlines these rules which allow
 systems programmers to implement the CGI.
-{{% /alert %}}
+{{% /callout %}}
 
 Today, Apache and other web servers have implemented their own, more efficient,
 modules to perform the duties of CGI. You can configure these parameters in your
@@ -154,16 +154,19 @@ longer had to worry about configuration and compiling the correct PHP binary
 against the proper Apache binary, they could just work on coding the
 application.
 
-{{% alert note %}}
-Note that: * PHP was not the only language rising in popularity at the time
-for web: MSFT was developing ASP running on their IIS web server.  * The
-Apache Server software began incorporating the functionality of CGI and its
-successors into modules for the server * Today, instead of a CGI application
-handling requests for files in the /cgi-bin/ directory, Apache itself parses
-PHP requests using "libphp5.so" found in /etc/httpd/modules * Many major
-sites are built upon PHP, including [Wordpress](https://www.wordpress.org),
-[Wikipedia](https://www.wikipedia.org), and [Facebook](https://salimvirani.com/facebook/).
-{{% /alert %}}
+{{% callout note %}}
+Note that: 
+* PHP was not the only language rising in popularity at the time
+for web: MSFT was developing ASP running on their IIS web server.
+* The Apache Server software began incorporating the functionality of CGI and its
+successors into modules for the server 
+* Today, instead of a CGI application handling requests for files in the
+/cgi-bin/ directory, Apache itself parses
+PHP requests using "libphp5.so" found in /etc/httpd/modules 
+* Many major sites are built upon PHP, including
+[Wordpress](https://www.wordpress.org), [Wikipedia](https://www.wikipedia.org),
+and [Facebook](https://salimvirani.com/facebook/).
+{{% /callout %}}
 
 # Popularity Problems
 

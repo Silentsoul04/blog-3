@@ -45,10 +45,10 @@ time thinking about the problem (work pays me for time, ergo I am motivated to
 spend the time thinking about this problem), or I did not frame the problem
 properly. 
 
-{{% alert note %}}
+{{% callout note %}}
 Two simple things: make time to identify the task and break the task down into
 individual units of work.
-{{% /alert %}}
+{{% /callout %}}
 
 This framing issue is why JIRA has worked for me: I can quickly and
 easily view and edit my tasks in the [Kanban board][Kanban]. I can create

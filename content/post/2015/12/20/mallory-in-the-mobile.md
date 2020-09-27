@@ -213,11 +213,11 @@ requested, similar to:
 
 {{< figure src="/images/2015/12-20-6.png" caption="Wired connection to Mallory VM settings (1/2)" >}}
 
-{{% alert note %}}
+{{% callout note %}}
 Note, you should set the Mallory IP address as another DNS server here as well
 to shorten request times - name resolution will end up taking quite longer than
 usual.
-{{% /alert %}}
+{{% /callout %}}
 
 {{< figure src="/images/2015/12-20-7.png" caption="Wired connection to Mallory VM settings (2/2)" >}}
 

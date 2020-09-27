@@ -46,9 +46,9 @@ dbepggeogbaibhgnhhndojpepiihcmeb//1.64.3_0/background_scripts/completion_search.
 Now I'm going to audit options.js, logging.js, main.js, and completion_search.js
 for network activity.
 
-{{% alert note %}}
+{{% callout note %}}
 Note that developers quite frequently name the XMLHttpRequest object 'xhr'.
-{{% /alert %}}
+{{% /callout %}}
 
 # Fetch
 

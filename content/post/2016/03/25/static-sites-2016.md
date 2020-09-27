@@ -166,11 +166,11 @@ later. This user was given the following permissions:
 }
 ```
 
-{{% alert warning %}}
+{{% callout warning %}}
 These permissions are dangerous. Accounts with these permissions should only
 be temporarily activated to perform a specific task, then immediately
 de-activated.
-{{% /alert %}}
+{{% /callout %}}
 
 With this SSL Admin account created, it was time to generate and install the TLS
 certificate.

@@ -19,10 +19,10 @@ I've got an obsession with Emacs. My favorite spin on Emacs is the _excellent_
  guidance on the recommended Emacs version from 26.3 to 27. I recently updated
  from 26.3 to 27 and found the process to be extremely painless. Here's how:
 
-{{% alert note %}}
+{{% callout note %}}
 This post builds on the steps I take in [my last notes on Emacs compilation on
  macOS.]({{< relref "/content/post/2019/11/12/more-notes-on-compiling-emacs-for-macos.md">}})
-{{% /alert %}}
+{{% /callout %}}
 
 First, remove the existing Emacs installation:
 

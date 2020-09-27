@@ -46,7 +46,7 @@ On the target's box: Here, I may or may not have several options for
 communicating back to my host.  I'll outline two methods, using netcat and bash,
 which are common binaries found on a target Unix box.
 
-{{% alert note %}}
+{{% callout note %}}
 Note: These commands all work under the assumption I can execute commands in a
 limited fashion on my victim's host already.  "Why go through the trouble of
 opening a reverse shell if you can already access commands on your target?"
@@ -59,7 +59,7 @@ expecting.  Perhaps you've tricked a user into clicking on a malicious link, or
 opening a malicious file which executes a small set of commands.  Maybe your
 target is running Windows XP and hasn't patched against [MS08-067][MS08067]
 (still my favorite exploit of all time :D).
-{{% /alert %}}
+{{% /callout %}}
 
 Whatever the reason you don't have full interactive access to your target, but
 you want it.  You crave it.  I do, too!

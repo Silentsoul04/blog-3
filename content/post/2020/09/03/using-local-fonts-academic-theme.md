@@ -72,10 +72,10 @@ When your blog is published, fonts will be in the `https://<yoursite>/fonts/`
 path. You need to ensure that the font paths in your CSS statements in `custom.scss`
 are prepended with `/fonts/`. See the screenshot above for examples.
 
-{{% alert note %}}
+{{% callout note %}}
 If you entered `/fonts/` in the _customize folder prefix_ textbox from step 2,
 this was automatically included in the CSS you copy/pasted.
-{{% /alert %}}
+{{% /callout %}}
 
 # Step 4 - Unpack the fonts
 

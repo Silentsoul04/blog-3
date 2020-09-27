@@ -1,3 +1,5 @@
 /deploy.sh
 /public/js/
 /public
+/resources/_gen/assets/scss/scss/*.content
+/resources/_gen/assets/scss/scss/*.json

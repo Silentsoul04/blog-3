@@ -23,11 +23,11 @@ understand how many users this site received but have since abandoned that.
 
 The notes below outline the extent of the cookies used on this site. 
 
-{{% alert note %}}
+{{% callout note %}}
 The only cookies this site should set relate to Security (DDoS prevention
 via CloudFlare) and Appearance (FontAwesome resource linkage). If you notice
 this isn't the case, please contact me and let me know!
-{{% /alert %}}
+{{% /callout %}}
 
 **cloudflare.com**  
 **2020-04-16 Update** 

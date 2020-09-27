@@ -21,10 +21,10 @@ Viaweb](http://www.paulgraham.com/avg.html) and my curiousity was piqued.
 This post is my attempt to consolidate my experience of getting a lisp
 development environment set up in July 2018.
 
-{{% alert note %}}
+{{% callout note %}}
 For the rest of this post, `[~] $` is my terminal prompt, and
 `*` is the sbcl Common Lisp interpreter prompt
-{{% /alert %}}
+{{% /callout %}}
 
 # Lisp
 
@@ -166,13 +166,13 @@ want my home directory unnecessarily polluted, so I chose to install it to my :
 *
 ```
 
-{{% alert note %}}
+{{% callout note %}}
 To force quicklisp to load at sbcl startup, execute the following
 post installation:
 ```
 * (ql:add-to-init-file)
 ```
-{{% /alert %}}
+{{% /callout %}}
 
 
 Verify that Quicklisp launches when the sbcl interperter starts by quitting

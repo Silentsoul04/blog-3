@@ -78,12 +78,12 @@ Federated - This timeline shows you posts from all across Mastodon. __Beware:
 some content viewable on this timeline might be offensive or inappropriate so
 exercise caution while browsing this!__ 
 
-{{% alert note %}}
+{{% callout note %}}
 __NB:__ there's a settings preference you
 can set to either hide media marked as sensitive, although this relies on
 trusting posters to appropriately mark such content. If you need it, you can set
 a preference to hide all media
-{{% /alert %}}
+{{% /callout %}}
 
 This has been my favorite feature of Mastodon so far: I spend most of my time
 browsing the feed of my local instance, though from time to time I'll view all

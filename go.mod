@@ -2,4 +2,4 @@ module wowchemy
 
 go 1.15
 
-require github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20200903212926-73d157ece01d // indirect
+require github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20200926233509-217538023ff5 // indirect

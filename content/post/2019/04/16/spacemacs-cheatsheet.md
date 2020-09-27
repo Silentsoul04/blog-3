@@ -165,10 +165,10 @@ treemacs-finish-edit` when done)
 
 ## Using the silver searcher (ag)
 
-{{% alert note %}}
+{{% callout note %}}
 Note:[The Silver Searcher](https://github.com/ggreer/the_silver_searcher) must
 be installed for this to work!
-{{% /alert %}}
+{{% /callout %}}
 
 Use helm-ag to search within the current file with `SPC s a a` (space, search,
 ag, helm-ag-this-file). This a very fast way to find all occurrences of a
@@ -218,10 +218,10 @@ disable flyspell
 `SPC h k` define top-level keys. This is useful for learning what all of your
 key-bindings are 
 
-{{% alert note %}}
+{{% callout note %}}
 Note: This will open the helm buffer with pagination. Press `C-h n` to move
 forward one page, `C-h p` to move backward one page
-{{% /alert %}}
+{{% /callout %}}
 
 `SPC h d k` describes what the key does. This is helpful for discovering how to
 use emacs. Note that this only shows what the key does in the current mode.
