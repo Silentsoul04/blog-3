@@ -3,3 +3,6 @@
 /public
 /resources/_gen/assets/scss/scss/*.content
 /resources/_gen/assets/scss/scss/*.json
+go.mod
+go.sum
+resources/_gen/
