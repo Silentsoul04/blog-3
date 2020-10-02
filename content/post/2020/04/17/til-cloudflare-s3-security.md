@@ -59,6 +59,7 @@ it isn't possible for me to enable "Full" encryption in CloudFlare. In any case,
 encryption is only going to help me mitigate the first two risks, what about the
 second two?
 
+<a name="bucketpolicy"></a>
 # Enter S3 Bucket Policy
 
 Access Control to the rescue!
