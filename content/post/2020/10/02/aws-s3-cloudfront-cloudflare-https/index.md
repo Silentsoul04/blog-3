@@ -85,3 +85,4 @@ configuring this part. Here are some refresher notes:
 [awsstatic]: https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html 
 [awsacm]: https://aws.amazon.com/certificate-manager/
 [advancedweb]: https://advancedweb.hu/how-to-use-a-custom-domain-on-cloudfront-with-cloudflare-managed-dns/
+[judge]: https://community.cloudflare.com/t/cloudflare-s3-full-ssl-new-version/195651/2
